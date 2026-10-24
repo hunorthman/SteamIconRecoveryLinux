@@ -304,7 +304,7 @@ class MainWindow(QMainWindow):
         mode_group = QGroupBox("Visszaállítási Mód")
         mode_layout = QVBoxLayout(mode_group)
 
-        self.radio_with_icons = QRadioButton("Visszaállítás egedi IKONOKKAL (SteamGridDB API szükséges)")
+        self.radio_with_icons = QRadioButton("Visszaállítás egyedi IKONOKKAL (SteamGridDB API szükséges)")
         self.radio_no_icons = QRadioButton("Visszaállítás IKONOK NÉLKÜL (gyors, alapértelmezett Steam ikonnal)")
         self.radio_with_icons.setChecked(True)
 
