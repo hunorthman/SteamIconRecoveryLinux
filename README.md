@@ -38,18 +38,25 @@ Telepítés Arch / Manjaro / Nobara / Fedora rendszereken:
 
 ## 🚀 Telepítés
 
-1. Töltsd le a legfrissebb kiadást vagy klónozd a tárolót:
+### A) Előre csomagolt verzió letöltése (Ajánlott)
 
-    git clone https://github.com/hunorthman/SteamIconRecoveryLinux.git
+1. Töltsd le a legfrissebb `SteamIconRecoveryLinux-v1.0.tar.gz` csomagot a [Releases](../../releases) oldalról.
+2. Csomagold ki és futtasd a telepítőt:
+
+    tar -xzf SteamIconRecoveryLinux-v1.0.tar.gz
     cd SteamIconRecoveryLinux
-
-2. Futtasd a telepítő szkriptet:
-
     chmod +x installer.sh
     ./installer.sh
 
-A telepítő a szoftvert a `~/.SteamIconRecoveryLinux/` rejtett mappába helyezi el, létrehozza a `steamiconrecovery` parancsot a `~/.local/bin` könyvtárban, és hozzáadja az alkalmazást a KDE Plasma alkalmazásmenüjéhez.
+---
 
+### B) Klónozás forráskódból
+
+    git clone https://github.com/felhasznalonev/SteamIconRecoveryLinux.git
+    cd SteamIconRecoveryLinux
+    chmod +x installer.sh
+    ./installer.sh
+    
 ---
 
 ## 🛠️ Használat
