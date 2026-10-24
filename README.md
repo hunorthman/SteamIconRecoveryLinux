@@ -40,7 +40,7 @@ Telepítés Arch / Manjaro / Nobara / Fedora rendszereken:
 
 1. Töltsd le a legfrissebb kiadást vagy klónozd a tárolót:
 
-    git clone https://github.com/felhasznalonev/SteamIconRecoveryLinux.git
+    git clone https://github.com/hunorthman/SteamIconRecoveryLinux.git
     cd SteamIconRecoveryLinux
 
 2. Futtasd a telepítő szkriptet:
