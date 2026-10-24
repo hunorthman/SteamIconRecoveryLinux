@@ -43,10 +43,13 @@ Telepítés Arch / Manjaro / Nobara / Fedora rendszereken:
 1. Töltsd le a legfrissebb `SteamIconRecoveryLinux-v1.0.tar.gz` csomagot a [Releases](../../releases) oldalról.
 2. Csomagold ki és futtasd a telepítőt:
 
-    tar -xzf SteamIconRecoveryLinux-v1.0.tar.gz
-    cd SteamIconRecoveryLinux
-    chmod +x installer.sh
-    ./installer.sh
+
+```bash
+tar -xzf SteamIconRecoveryLinux-v1.0.tar.gz
+cd SteamIconRecoveryLinux
+chmod +x installer.sh
+./installer.sh
+```
 
 ---
 
