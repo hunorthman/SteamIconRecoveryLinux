@@ -2,8 +2,9 @@
 
 A **SteamIconRecoveryLinux** egy hordozható, felhasználóbarát Python/PySide6 alapú Linux segédprogram (kifejezetten KDE Plasma környezethez), amely automatikusan helyreállítja a hiányzó Steam játékindítókat és letölti hozzájuk a hivatalos, nagyfelbontású ikonsorozatokat a **SteamGridDB API** segítségével.
 
-![SteamIconRecoveryLinux App Icon](icon.png)
-
+<p align="center">
+  <img src="screenshot.png" alt="SteamIconRecoveryLinux Screenshots">
+</p>
 ---
 
 ## 🌟 Főbb jellemzők
